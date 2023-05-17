@@ -7,7 +7,7 @@ This Node.js application implements a Simple TCP forwarding server that allows f
 ## 1. Clone the repository:
 
 ```bash
-git clone https://github.com/DarkZo0m/TCPForwarding
+git clone https://github.com/DarkZo0m/TCP-Forwarding
 ```
 
 ## 2. Install dependencies:
