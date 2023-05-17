@@ -1,8 +1,6 @@
 # :rocket: TCP Forwarding Server
 
 This Node.js application implements a Simple TCP forwarding server that allows forwarding of network traffic between two endpoints.
-Packages :
-`net`
 
 ## Usage
 
@@ -15,7 +13,7 @@ git clone https://github.com/DarkZo0m/TCPForwarding
 ## 2. Install dependencies:
 ```bash
 cd tcp-forwarding
-npm install
+npm install net
 ```
 
 ## 3. Configure the server
